@@ -1,0 +1,38 @@
+John Smith
+john.smith@email.com | +1 (555) 123-4567 | San Francisco, CA
+linkedin.com/in/johnsmith | github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 8+ years of experience building scalable distributed systems. Led teams of 5-15 engineers at Google and Startup Inc, delivering $4.2M in revenue impact. Expert in React, Node.js, Python, and AWS cloud architecture.
+
+EXPERIENCE
+
+Senior Software Engineer — Google
+January 2020 – Present
+- Led cross-functional team of 12 engineers to deliver platform migration, reducing latency by 40%
+- Architected microservices serving 10M+ daily active users on AWS
+- Drove $4.2M revenue growth through performance optimization initiatives
+- Mentored 5 junior engineers, 3 promoted within 18 months
+
+Product Manager — Startup Inc
+June 2017 – December 2019
+- Launched MVP in 3 months, achieving product-market fit at 30% MoM growth
+- Managed roadmap for 5 product lines with $2M annual revenue
+- Grew user base from 0 to 50,000 through data-driven growth strategies
+- Collaborated with engineering, design, and sales teams across 3 time zones
+
+Software Developer — Acme Corp
+March 2015 – May 2017
+- Built RESTful APIs handling 100K+ requests per day
+- Implemented CI/CD pipeline reducing deployment time from 2 hours to 15 minutes
+- Developed automated testing suite with 95% code coverage
+
+EDUCATION
+
+Bachelor of Science in Computer Science — MIT, 2015
+
+SKILLS
+JavaScript, React, Node.js, Python, AWS, SQL, Docker, Kubernetes, Agile, Git, REST APIs, GraphQL
+
+CERTIFICATIONS
+AWS Solutions Architect Associate, Certified Scrum Product Owner (CSPO)
